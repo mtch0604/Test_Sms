@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestMagoraSystems</string>
+    <string name="MainActivityTip">Long-tap item to email it.</string>
+    <string name="MainActivity_FieldName_address">address</string>
+    <string name="MainActivity_FieldName_type">type</string>
+    <string name="MainActivity_FieldName_body">body</string>
+    <string name="MainActivity_FieldName_id">_id</string>
+    <string name="MainActivity_MenuCmd_SendEmail">Send to email</string>
+    <string name="MainActivity_SendEmail_DefaultAddr">mtch0604@gmail.com</string>
+    <string name="MainActivity_SendEmail_DefaultText">TestMagoraSystems sms email</string>
+    <string name="MainActivity_SendEmail_Type">message/rfc822</string>
+    <string name="MainActivity_SendEmail_ChooserText">Choose an Email client</string>
+    
+    <string name="MainActivity_CustomAdapter_MsgDirection_Any">none</string>
+    <string name="MainActivity_CustomAdapter_MsgDirection_incoming">incoming</string>
+    <string name="MainActivity_CustomAdapter_MsgDirection_outgoing">outgoing</string>
+    
+    <string name="MainActivity_SmsContentUri">content://sms/</string>
+    
+    <string name="ActivityGreet_text">Greetings</string>
+
+</resources>
