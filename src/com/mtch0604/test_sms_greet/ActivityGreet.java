@@ -7,7 +7,7 @@
  * 
  * Copyright 2015 Mikhail Chepkin, mtch0604@gmail.com
  */
-package com.mtch0604.test_sms;
+package com.mtch0604.test_sms_greet;
 
 
 import android.app.Activity;
@@ -16,6 +16,9 @@ import android.os.Bundle;
 import android.util.Log;
 
 import java.util.concurrent.TimeUnit;
+
+import com.mtch0604.test_sms.R;
+import com.mtch0604.test_sms.R.layout;
 
 
 /**
